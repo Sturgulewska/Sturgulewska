@@ -1,7 +1,7 @@
 ### <h3 align="center">Hi 👋, I am Anna</h3>
 <h4 align="center">My biggest programing skills are Spring Boot and MySQL. I am interested in projects that are developed in various technologies. I looking my first job in IT word</h4>
 
-- 🔭 I’m currently working on ShopHair, Movie, ToDoList
+- 🔭 I’m currently working on ShopHair, filmsword, ToDoList
 - 👨‍💻 All of my projects are available at https://github.com/Sturgulewska?tab=repositories
 - 📫 How to reach me: sturgulewskaanna@gmail.com
 - ⚡ Fun fact: Wakeboard, piano and guitar player, healthy live
