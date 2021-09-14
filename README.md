@@ -1,6 +1,6 @@
 ### <h3 align="center">Hi 👋, I am Anna</h3>
 <h4 align="center">My biggest programing skills are Spring Boot and MySQL. I am interested in projects that are developed in various technologies.</br>
-  I looking my first job in IT world</h4>
+  I am looking my first job in IT world.</h4>
 
 - 🔭 I’m currently working on ShopHair, filmsword, ToDoList
 - 👨‍💻 All of my projects are available at https://github.com/Sturgulewska?tab=repositories
