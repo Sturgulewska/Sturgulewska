@@ -2,7 +2,7 @@
 <h4 align="center">My biggest programing skills are Spring Boot and MySQL. I am interested in projects that are developed in various technologies.</br>
   I am looking my first job in IT world.</h4>
 
-- 🔭 I’m currently working on ShopHair, filmsword, ToDoList
+- 🔭 I’m currently working on ShopHair, filmsword.
 - 👨‍💻 All of my projects are available at https://github.com/Sturgulewska?tab=repositories
 - 📫 How to reach me: sturgulewskaanna@gmail.com
 - ⚡ Fun fact: Wakeboard, piano and guitar player, healthy live
