@@ -1,6 +1,6 @@
 ### <h3 align="center">Hi 👋, I am Anna</h3>
-<h4 align="center"> My strongest programing skills are Java, Spring Boot and MySQL. I am interested in projects that are developed in various technologies.
-I am looking for my first job in the IT world.
+<h4 align="center"> My strongest programing skills are Java, Spring Boot and MySQL. I am interested in projects that are developed in various technologies. 
+  Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. I am looking for my first job in the IT world.
   </h4>
 
 - 👨‍💻 All of my projects are available at: https://github.com/Sturgulewska?tab=repositories
