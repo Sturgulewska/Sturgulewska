@@ -1,6 +1,5 @@
 ### <h3 align="center">Hi 👋, I am Anna</h3>
-<h4 align="center"> My strongest programing skills are Java, Spring Boot and MySQL. I am interested in projects that are developed in various technologies. 
-  Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. I am looking for my first job in the IT world.
+<h4 align="center"> I loves study and IT worlds it is my favorite subject. I started study with Java, Selenium, Spring Boot but it wasn't enough for me. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. I am looking for my first job in the IT world.
   </h4>
   
 - 🔭 I’m currently working on **MOQC#**
