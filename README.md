@@ -1,10 +1,10 @@
 ### <h3 align="center">Hi 👋, I am Anna</h3>
-<h4 align="center"> I love study and IT worlds, it is my favorite subject. I started study with Java, Selenium, Spring Boot, but it wasn't enough for me. Recently I have started to interest of software and automation test. My goal is to develop testing knowledge and technical skills. I am looking for my first job in the IT world.
+<h4 align="center"> I love study and IT worlds, it is my favorite subject. I started study with Java, Selenium, Spring Boot, but it wasn't enough for me. Recently I have started to interest of software and automation test. My goal is to develop testing knowledge and technical skills. 
 </h4>
   
-- 🔭 I’m currently working on **MOQC#**
+- 🔭 I’m currently working on **playwright**
 - 👨‍💻 All of my projects are available at: https://github.com/Sturgulewska?tab=repositories
-- 🌱 I’m currently learning **software testing, selenium, unit tests, Java and C#**
+- 🌱 I’m currently learning **software testing, selenium, unit tests, Java and C#, java script**
 - 📫 You can reach me at: : sturgulewskaanna@gmail.com
 - ⚡ Fun fact: Wakeboard, piano and guitar player, healthy live
 
